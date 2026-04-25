@@ -1,0 +1,501 @@
+Location,Temperature,Humidity,WindSpeed,Rainfall,Fire
+Corbett National Park,50,83,38,52,0
+Ranthambore National Park,45,21,33,21,0
+Nallamala Forest,50,34,1,94,0
+Seshachalam Hills,49,31,3,54,0
+Periyar National Park,30,48,21,69,0
+Ranthambore National Park,27,32,9,64,0
+Nallamala Forest,48,67,21,0,0
+Kaziranga National Park,20,48,22,28,0
+Corbett National Park,42,84,9,56,0
+Amazon Forest,20,78,31,75,0
+Kaziranga National Park,23,22,11,10,0
+Corbett National Park,21,34,14,8,0
+Periyar National Park,20,36,26,22,0
+Ranthambore National Park,18,89,20,17,0
+Sundarbans,28,57,16,21,0
+Ranthambore National Park,24,86,33,25,0
+Seshachalam Hills,46,59,8,35,0
+Corbett National Park,34,90,28,26,0
+Seshachalam Hills,35,83,16,25,0
+Sundarbans,50,41,30,5,1
+Araku Valley,42,35,37,23,0
+Kaziranga National Park,50,63,5,72,0
+Araku Valley,21,29,27,31,0
+Ranthambore National Park,43,60,32,92,0
+Kaziranga National Park,49,34,8,46,0
+Nallamala Forest,28,25,28,23,0
+Amazon Forest,38,63,22,100,0
+Corbett National Park,27,31,1,36,0
+Kaziranga National Park,20,77,40,74,0
+Amazon Forest,49,76,24,45,0
+Araku Valley,20,87,33,75,0
+Nallamala Forest,19,40,1,23,0
+Kaziranga National Park,48,31,30,71,0
+Kaziranga National Park,18,82,16,91,0
+Sundarbans,31,26,34,14,0
+Amazon Forest,49,71,13,24,0
+Ranthambore National Park,21,83,34,4,0
+Ranthambore National Park,17,86,32,35,0
+Amazon Forest,42,51,11,61,0
+Periyar National Park,35,24,18,16,0
+Sundarbans,27,46,29,83,0
+Kaziranga National Park,21,86,1,43,0
+Sundarbans,47,84,33,86,0
+Amazon Forest,19,25,15,75,0
+Periyar National Park,49,38,22,65,0
+Periyar National Park,46,76,36,88,0
+Ranthambore National Park,24,79,30,7,0
+Periyar National Park,45,21,34,85,0
+Corbett National Park,35,63,29,51,0
+Seshachalam Hills,44,48,1,70,0
+Sundarbans,34,30,15,3,0
+Ranthambore National Park,28,29,40,56,0
+Kaziranga National Park,40,33,40,94,0
+Amazon Forest,42,79,2,95,0
+Amazon Forest,23,77,37,86,0
+Amazon Forest,45,86,16,43,0
+Corbett National Park,21,70,18,16,0
+Corbett National Park,33,59,1,37,0
+Periyar National Park,38,66,1,61,0
+Kaziranga National Park,35,20,18,66,0
+Seshachalam Hills,21,62,29,95,0
+Kaziranga National Park,21,43,31,89,0
+Gir National Park,25,61,4,75,0
+Nallamala Forest,41,38,14,39,0
+Ranthambore National Park,15,20,2,25,0
+Nallamala Forest,23,29,26,30,0
+Araku Valley,45,54,13,59,0
+Periyar National Park,27,68,4,1,0
+Periyar National Park,40,52,17,30,0
+Araku Valley,24,60,26,11,0
+Gir National Park,44,48,28,89,0
+Seshachalam Hills,30,48,26,47,0
+Sundarbans,44,88,12,1,0
+Kaziranga National Park,38,63,27,85,0
+Sundarbans,35,78,0,7,0
+Kaziranga National Park,26,64,40,66,0
+Amazon Forest,46,56,0,63,0
+Kaziranga National Park,36,61,2,18,0
+Araku Valley,27,49,33,35,0
+Ranthambore National Park,37,81,19,96,0
+Amazon Forest,49,34,8,58,0
+Ranthambore National Park,26,34,5,93,0
+Periyar National Park,35,87,25,34,0
+Nallamala Forest,24,86,23,63,0
+Nallamala Forest,24,89,38,41,0
+Kaziranga National Park,45,41,25,96,0
+Kaziranga National Park,47,80,6,59,0
+Gir National Park,31,49,31,73,0
+Corbett National Park,42,42,38,37,0
+Gir National Park,43,87,28,90,0
+Corbett National Park,43,49,35,9,1
+Gir National Park,49,42,35,83,0
+Seshachalam Hills,18,71,19,2,0
+Seshachalam Hills,33,44,31,98,0
+Araku Valley,40,47,11,39,0
+Sundarbans,30,33,31,95,0
+Gir National Park,17,22,12,25,0
+Nallamala Forest,38,41,6,67,0
+Nallamala Forest,42,23,28,23,0
+Amazon Forest,31,42,16,49,0
+Araku Valley,38,50,21,76,0
+Periyar National Park,18,26,33,60,0
+Seshachalam Hills,37,59,11,89,0
+Sundarbans,20,82,28,65,0
+Ranthambore National Park,24,21,5,22,0
+Periyar National Park,35,23,5,14,0
+Amazon Forest,25,37,33,97,0
+Seshachalam Hills,24,27,31,59,0
+Nallamala Forest,32,52,23,28,0
+Periyar National Park,17,34,9,23,0
+Kaziranga National Park,21,33,38,5,0
+Amazon Forest,49,56,22,92,0
+Amazon Forest,30,52,22,51,0
+Sundarbans,37,75,40,54,0
+Amazon Forest,34,90,29,100,0
+Periyar National Park,24,51,15,81,0
+Kaziranga National Park,33,56,34,75,0
+Corbett National Park,39,44,38,96,0
+Nallamala Forest,50,39,30,72,0
+Sundarbans,46,54,30,39,0
+Kaziranga National Park,18,39,29,90,0
+Ranthambore National Park,26,86,17,77,0
+Seshachalam Hills,39,51,35,73,0
+Kaziranga National Park,15,34,26,74,0
+Corbett National Park,37,65,0,53,0
+Corbett National Park,45,57,9,93,0
+Nallamala Forest,22,33,5,65,0
+Sundarbans,36,83,10,45,0
+Nallamala Forest,45,87,2,69,0
+Kaziranga National Park,23,35,30,66,0
+Corbett National Park,43,20,33,67,0
+Araku Valley,21,55,10,11,0
+Sundarbans,26,47,29,74,0
+Periyar National Park,28,84,40,21,0
+Gir National Park,34,47,11,99,0
+Ranthambore National Park,41,87,0,30,0
+Ranthambore National Park,26,56,19,20,0
+Gir National Park,50,68,16,89,0
+Sundarbans,33,74,18,37,0
+Seshachalam Hills,41,58,25,71,0
+Ranthambore National Park,26,88,2,70,0
+Kaziranga National Park,29,56,15,74,0
+Gir National Park,41,75,17,95,0
+Ranthambore National Park,50,79,38,69,0
+Nallamala Forest,22,29,32,92,0
+Corbett National Park,25,25,14,74,0
+Amazon Forest,24,45,16,83,0
+Ranthambore National Park,16,83,17,96,0
+Sundarbans,22,49,13,31,0
+Corbett National Park,20,41,17,18,0
+Kaziranga National Park,45,79,36,45,0
+Sundarbans,20,53,18,55,0
+Periyar National Park,39,72,30,76,0
+Ranthambore National Park,32,67,16,99,0
+Gir National Park,25,42,10,75,0
+Seshachalam Hills,19,68,18,1,0
+Amazon Forest,37,52,8,43,0
+Periyar National Park,34,65,13,17,0
+Kaziranga National Park,25,76,31,69,0
+Kaziranga National Park,49,90,32,98,0
+Seshachalam Hills,34,25,6,73,0
+Araku Valley,35,29,20,37,0
+Gir National Park,23,84,20,41,0
+Sundarbans,28,44,17,6,0
+Amazon Forest,18,63,24,32,0
+Ranthambore National Park,20,45,13,24,0
+Araku Valley,19,74,39,100,0
+Seshachalam Hills,16,71,8,4,0
+Seshachalam Hills,49,22,37,78,0
+Amazon Forest,16,36,29,95,0
+Nallamala Forest,27,29,4,69,0
+Kaziranga National Park,23,74,23,44,0
+Periyar National Park,41,36,5,62,0
+Gir National Park,18,47,8,64,0
+Amazon Forest,29,86,24,55,0
+Kaziranga National Park,43,83,6,62,0
+Sundarbans,15,50,10,86,0
+Seshachalam Hills,47,69,14,18,0
+Araku Valley,37,77,1,31,0
+Ranthambore National Park,31,73,9,63,0
+Ranthambore National Park,42,30,18,67,0
+Periyar National Park,16,31,15,34,0
+Periyar National Park,40,21,39,46,0
+Seshachalam Hills,36,64,40,69,0
+Araku Valley,48,59,25,87,0
+Ranthambore National Park,34,65,3,79,0
+Periyar National Park,35,69,16,1,0
+Ranthambore National Park,26,55,10,20,0
+Araku Valley,23,25,35,35,0
+Seshachalam Hills,38,56,34,99,0
+Ranthambore National Park,26,38,21,32,0
+Araku Valley,38,48,0,27,0
+Gir National Park,25,24,14,33,0
+Gir National Park,38,47,18,1,1
+Sundarbans,17,62,14,68,0
+Nallamala Forest,17,74,20,91,0
+Gir National Park,42,71,29,47,0
+Gir National Park,40,53,4,88,0
+Sundarbans,29,31,29,99,0
+Ranthambore National Park,32,85,23,11,0
+Periyar National Park,41,70,35,62,0
+Gir National Park,48,39,8,59,0
+Araku Valley,50,40,6,40,0
+Corbett National Park,26,48,28,71,0
+Sundarbans,24,27,10,8,0
+Araku Valley,25,81,24,97,0
+Sundarbans,34,27,9,52,0
+Ranthambore National Park,47,33,17,63,0
+Corbett National Park,48,86,0,22,0
+Kaziranga National Park,33,74,33,35,0
+Seshachalam Hills,17,68,30,83,0
+Amazon Forest,43,58,9,47,0
+Araku Valley,49,49,39,19,1
+Ranthambore National Park,32,32,30,75,0
+Gir National Park,24,43,14,54,0
+Gir National Park,35,30,20,8,0
+Sundarbans,15,64,27,87,0
+Ranthambore National Park,50,49,27,31,0
+Seshachalam Hills,40,58,16,81,0
+Seshachalam Hills,32,74,37,18,0
+Sundarbans,20,63,2,31,0
+Nallamala Forest,19,80,31,54,0
+Amazon Forest,37,61,40,24,0
+Gir National Park,39,87,1,5,0
+Corbett National Park,15,29,10,35,0
+Ranthambore National Park,50,30,16,91,0
+Nallamala Forest,49,23,40,95,0
+Kaziranga National Park,25,31,14,57,0
+Periyar National Park,16,33,37,62,0
+Sundarbans,17,64,29,89,0
+Sundarbans,48,21,2,41,0
+Ranthambore National Park,18,51,18,61,0
+Seshachalam Hills,28,25,31,67,0
+Seshachalam Hills,35,39,39,13,0
+Seshachalam Hills,26,79,9,49,0
+Amazon Forest,48,65,0,61,0
+Amazon Forest,32,58,0,66,0
+Amazon Forest,35,44,39,28,0
+Ranthambore National Park,49,86,11,47,0
+Kaziranga National Park,27,28,10,6,0
+Kaziranga National Park,23,66,33,62,0
+Seshachalam Hills,25,54,1,61,0
+Ranthambore National Park,40,57,40,99,0
+Nallamala Forest,39,38,10,54,0
+Sundarbans,32,68,31,77,0
+Ranthambore National Park,15,48,37,79,0
+Araku Valley,28,39,3,5,0
+Ranthambore National Park,29,36,1,98,0
+Corbett National Park,39,56,3,38,0
+Amazon Forest,38,25,24,3,1
+Amazon Forest,20,59,9,29,0
+Corbett National Park,38,31,30,95,0
+Kaziranga National Park,20,44,21,18,0
+Sundarbans,48,59,7,84,0
+Corbett National Park,26,40,1,54,0
+Seshachalam Hills,48,38,30,20,0
+Ranthambore National Park,35,76,6,44,0
+Sundarbans,16,69,23,22,0
+Araku Valley,41,32,23,100,0
+Kaziranga National Park,36,89,10,1,0
+Nallamala Forest,33,75,20,89,0
+Gir National Park,41,90,13,31,0
+Araku Valley,32,40,38,84,0
+Nallamala Forest,26,88,12,81,0
+Ranthambore National Park,25,38,30,32,0
+Araku Valley,47,29,4,56,0
+Araku Valley,45,34,18,68,0
+Amazon Forest,39,28,23,70,0
+Corbett National Park,48,39,6,92,0
+Nallamala Forest,48,86,20,68,0
+Periyar National Park,30,59,26,57,0
+Corbett National Park,25,76,2,10,0
+Kaziranga National Park,32,63,38,75,0
+Sundarbans,44,83,15,60,0
+Amazon Forest,22,28,28,19,0
+Amazon Forest,31,36,10,0,0
+Corbett National Park,31,76,33,13,0
+Amazon Forest,21,60,19,0,0
+Periyar National Park,50,41,34,33,0
+Periyar National Park,16,75,18,0,0
+Gir National Park,23,57,20,82,0
+Periyar National Park,27,31,29,62,0
+Ranthambore National Park,42,46,5,85,0
+Gir National Park,45,27,25,88,0
+Gir National Park,18,87,22,97,0
+Ranthambore National Park,46,67,36,33,0
+Sundarbans,19,38,35,63,0
+Seshachalam Hills,23,87,38,20,0
+Corbett National Park,38,36,34,89,0
+Sundarbans,39,46,35,32,0
+Sundarbans,41,25,36,2,1
+Periyar National Park,32,60,4,11,0
+Araku Valley,38,74,21,0,0
+Amazon Forest,21,61,16,91,0
+Sundarbans,38,83,7,86,0
+Sundarbans,43,35,20,10,1
+Nallamala Forest,37,54,19,91,0
+Corbett National Park,26,46,37,37,0
+Seshachalam Hills,30,53,18,8,0
+Amazon Forest,18,41,13,84,0
+Seshachalam Hills,31,24,11,38,0
+Kaziranga National Park,35,82,14,27,0
+Araku Valley,16,32,17,46,0
+Amazon Forest,38,49,15,73,0
+Corbett National Park,39,23,1,83,0
+Sundarbans,25,43,36,44,0
+Periyar National Park,50,33,0,67,0
+Kaziranga National Park,29,83,21,14,0
+Araku Valley,19,75,24,65,0
+Amazon Forest,49,84,29,89,0
+Nallamala Forest,33,64,0,53,0
+Gir National Park,41,28,36,2,1
+Ranthambore National Park,20,39,35,52,0
+Seshachalam Hills,28,64,27,31,0
+Gir National Park,44,68,15,26,0
+Seshachalam Hills,44,54,37,3,0
+Seshachalam Hills,35,88,1,57,0
+Corbett National Park,31,74,34,28,0
+Periyar National Park,50,83,17,85,0
+Ranthambore National Park,37,42,37,85,0
+Ranthambore National Park,44,37,25,18,1
+Seshachalam Hills,20,68,35,77,0
+Ranthambore National Park,41,36,14,13,0
+Seshachalam Hills,43,42,30,91,0
+Periyar National Park,22,51,10,61,0
+Gir National Park,21,25,16,1,0
+Nallamala Forest,35,83,27,77,0
+Araku Valley,18,60,23,79,0
+Gir National Park,23,33,0,18,0
+Araku Valley,21,26,26,61,0
+Gir National Park,16,24,11,49,0
+Sundarbans,18,62,17,92,0
+Nallamala Forest,38,36,29,41,0
+Periyar National Park,17,84,17,55,0
+Kaziranga National Park,20,79,4,3,0
+Sundarbans,36,85,2,89,0
+Nallamala Forest,33,87,38,75,0
+Sundarbans,27,68,4,34,0
+Corbett National Park,33,46,21,91,0
+Seshachalam Hills,38,33,10,8,0
+Araku Valley,23,46,1,99,0
+Araku Valley,21,48,33,51,0
+Gir National Park,33,82,37,28,0
+Amazon Forest,35,76,34,11,0
+Sundarbans,38,46,17,63,0
+Araku Valley,30,49,9,90,0
+Araku Valley,45,88,2,68,0
+Corbett National Park,19,25,31,36,0
+Nallamala Forest,49,38,25,4,1
+Corbett National Park,25,48,18,12,0
+Corbett National Park,49,67,37,2,0
+Sundarbans,38,54,37,17,0
+Sundarbans,39,59,40,90,0
+Nallamala Forest,42,81,1,8,0
+Kaziranga National Park,32,44,10,97,0
+Sundarbans,33,64,18,73,0
+Ranthambore National Park,45,79,8,19,0
+Sundarbans,40,34,5,88,0
+Araku Valley,30,89,13,26,0
+Amazon Forest,23,23,11,51,0
+Corbett National Park,45,34,10,4,0
+Kaziranga National Park,50,46,33,22,0
+Sundarbans,30,29,32,71,0
+Ranthambore National Park,44,54,27,48,0
+Sundarbans,25,40,40,26,0
+Periyar National Park,28,25,30,85,0
+Araku Valley,44,35,2,90,0
+Corbett National Park,48,67,25,64,0
+Nallamala Forest,23,22,38,2,0
+Kaziranga National Park,44,61,31,5,0
+Kaziranga National Park,17,35,6,52,0
+Seshachalam Hills,45,61,25,78,0
+Kaziranga National Park,28,41,13,37,0
+Amazon Forest,24,48,18,35,0
+Ranthambore National Park,28,44,7,75,0
+Sundarbans,26,38,10,75,0
+Amazon Forest,22,30,18,95,0
+Corbett National Park,34,88,34,77,0
+Seshachalam Hills,23,23,14,2,0
+Gir National Park,35,68,22,43,0
+Corbett National Park,28,32,22,88,0
+Sundarbans,38,65,11,27,0
+Kaziranga National Park,47,42,21,86,0
+Periyar National Park,41,66,36,59,0
+Sundarbans,46,53,22,67,0
+Sundarbans,48,81,6,30,0
+Gir National Park,36,58,0,85,0
+Seshachalam Hills,29,61,3,97,0
+Kaziranga National Park,21,65,16,31,0
+Sundarbans,31,42,5,20,0
+Amazon Forest,40,25,12,62,0
+Amazon Forest,29,90,37,13,0
+Amazon Forest,20,25,9,39,0
+Periyar National Park,28,60,0,13,0
+Sundarbans,28,27,40,61,0
+Sundarbans,20,60,19,86,0
+Araku Valley,50,90,12,87,0
+Ranthambore National Park,25,39,31,14,0
+Araku Valley,28,23,15,23,0
+Nallamala Forest,37,24,30,49,0
+Nallamala Forest,38,49,21,91,0
+Seshachalam Hills,46,44,3,3,0
+Amazon Forest,44,90,7,35,0
+Seshachalam Hills,46,67,13,6,0
+Kaziranga National Park,32,78,34,24,0
+Amazon Forest,44,85,27,55,0
+Seshachalam Hills,25,82,4,27,0
+Kaziranga National Park,24,51,27,2,0
+Sundarbans,50,60,13,14,0
+Nallamala Forest,27,57,23,32,0
+Periyar National Park,35,85,18,28,0
+Nallamala Forest,38,83,30,45,0
+Gir National Park,33,32,8,8,0
+Periyar National Park,41,70,25,31,0
+Kaziranga National Park,16,35,27,63,0
+Seshachalam Hills,25,43,14,6,0
+Kaziranga National Park,46,71,3,39,0
+Gir National Park,33,69,23,64,0
+Kaziranga National Park,18,33,15,66,0
+Kaziranga National Park,30,76,39,58,0
+Nallamala Forest,36,66,6,18,0
+Gir National Park,38,55,30,15,0
+Amazon Forest,43,67,30,26,0
+Amazon Forest,45,88,40,80,0
+Gir National Park,42,76,20,3,0
+Sundarbans,15,72,30,70,0
+Periyar National Park,43,65,19,8,0
+Gir National Park,22,32,6,98,0
+Gir National Park,23,90,25,68,0
+Seshachalam Hills,15,37,6,1,0
+Nallamala Forest,20,52,38,57,0
+Ranthambore National Park,38,85,7,56,0
+Corbett National Park,28,83,2,83,0
+Kaziranga National Park,15,54,13,61,0
+Gir National Park,35,38,36,60,0
+Amazon Forest,29,30,40,16,0
+Seshachalam Hills,42,39,17,66,0
+Periyar National Park,20,30,9,48,0
+Araku Valley,28,23,22,68,0
+Sundarbans,37,88,34,39,0
+Ranthambore National Park,40,38,23,82,0
+Gir National Park,38,27,36,82,0
+Periyar National Park,22,60,32,11,0
+Seshachalam Hills,19,30,12,26,0
+Ranthambore National Park,15,49,20,81,0
+Amazon Forest,36,90,1,82,0
+Nallamala Forest,24,57,21,87,0
+Seshachalam Hills,19,79,12,97,0
+Corbett National Park,22,47,27,28,0
+Ranthambore National Park,34,25,23,62,0
+Ranthambore National Park,24,73,38,95,0
+Amazon Forest,40,25,17,8,1
+Nallamala Forest,20,58,32,41,0
+Seshachalam Hills,25,80,16,77,0
+Kaziranga National Park,24,90,6,10,0
+Araku Valley,34,24,25,87,0
+Araku Valley,30,29,18,70,0
+Araku Valley,49,77,2,94,0
+Araku Valley,37,59,0,28,0
+Sundarbans,17,88,23,25,0
+Ranthambore National Park,23,30,10,2,0
+Corbett National Park,27,86,32,20,0
+Kaziranga National Park,15,74,10,92,0
+Kaziranga National Park,28,39,5,94,0
+Nallamala Forest,22,43,4,2,0
+Corbett National Park,48,73,17,85,0
+Nallamala Forest,42,57,18,9,0
+Gir National Park,40,72,11,7,0
+Nallamala Forest,20,80,14,23,0
+Gir National Park,17,36,7,79,0
+Kaziranga National Park,40,27,4,96,0
+Amazon Forest,26,77,37,41,0
+Araku Valley,30,84,14,33,0
+Sundarbans,21,53,3,11,0
+Ranthambore National Park,36,61,7,11,0
+Amazon Forest,49,90,36,19,0
+Seshachalam Hills,46,23,30,32,0
+Araku Valley,50,48,2,43,0
+Seshachalam Hills,18,47,26,56,0
+Corbett National Park,30,89,23,40,0
+Araku Valley,43,65,34,16,0
+Amazon Forest,21,55,21,37,0
+Seshachalam Hills,43,33,36,4,1
+Amazon Forest,48,51,5,100,0
+Gir National Park,46,89,21,2,0
+Sundarbans,25,77,0,93,0
+Periyar National Park,44,63,39,80,0
+Ranthambore National Park,40,50,13,38,0
+Kaziranga National Park,15,35,10,78,0
+Ranthambore National Park,30,89,1,18,0
+Nallamala Forest,26,29,27,21,0
+Nallamala Forest,34,62,19,59,0
+Kaziranga National Park,35,29,10,43,0
+Amazon Forest,26,38,19,91,0
+Ranthambore National Park,15,87,21,18,0
+Kaziranga National Park,41,55,28,81,0
+Kaziranga National Park,23,78,39,18,0
+Araku Valley,32,83,32,52,0
+Corbett National Park,42,71,6,21,0
+Amazon Forest,45,26,16,71,0
